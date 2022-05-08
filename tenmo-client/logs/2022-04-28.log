@@ -1,0 +1,8 @@
+2022-04-28T17:11:01.8830698 500 : [{"timestamp":"2022-04-28T21:11:01.850+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [SELECT transfer_id, transfer_type_id, transfer_status_id, user_id, ... (637 bytes)]
+2022-04-28T17:16:14.5965359 500 : [{"timestamp":"2022-04-28T21:16:14.548+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [SELECT transfer_id, transfer_type_id, transfer_status_id, user_id, ... (637 bytes)]
+2022-04-28T17:20:50.850672 500 : [{"timestamp":"2022-04-28T21:20:50.822+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (766 bytes)]
+2022-04-28T17:54:27.3694184 500 : [{"timestamp":"2022-04-28T21:54:27.334+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (764 bytes)]
+2022-04-28T18:00:40.7851795 500 : [{"timestamp":"2022-04-28T22:00:40.761+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (766 bytes)]
+2022-04-28T18:09:28.9146078 500 : [{"timestamp":"2022-04-28T22:09:28.896+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (766 bytes)]
+2022-04-28T18:59:07.2892091 401 : [no body]
+2022-04-28T18:59:16.4122446 401 : [no body]

@@ -1,0 +1,5 @@
+2022-04-29T13:28:50.5975962 401 : [no body]
+2022-04-29T15:02:15.9368003 500 : [{"timestamp":"2022-04-29T19:02:15.912+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (814 bytes)]
+2022-04-29T20:20:21.8278874 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-29T20:33:12.8293685 500 : [{"timestamp":"2022-04-30T00:33:12.813+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (810 bytes)]
+2022-04-29T20:38:06.7439551 500 : [{"timestamp":"2022-04-30T00:38:06.728+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (810 bytes)]
